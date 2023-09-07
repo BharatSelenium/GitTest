@@ -13,7 +13,7 @@ public class RestAPITest {
 		System.out.println("postJira3");
 //adafdas
 //asfasf
-/asfasf
+//asfasf
 		System.out.println("postJira4");
 		System.out.println("postJira5");
 		System.out.println("postJira6");
@@ -24,8 +24,15 @@ public class RestAPITest {
 	}
 	
 	@Test
+	public void deleteTwitterr()
+	{
+		System.out.println("deleteTwitterr");
+		System.out.println("deleteTwitterr");
+	}
+	@Test
 	public void deleteTwitter()
 	{
+		System.out.println("deleteTwitter");
 		System.out.println("deleteTwitter");
 	}
 }
